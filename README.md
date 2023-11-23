@@ -1,1 +1,1 @@
-# WebProject-AdisaMedia
+# This project is a website created for Adisa Media, a freelance graphic design firm.
