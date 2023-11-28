@@ -121,7 +121,7 @@
     transition:0.2s;
    }
 
-   button {
+   .ContentArea form button {
     padding: 10px 0;
     color: #fff;
     outline: none;
@@ -140,19 +140,5 @@
     font-size:14px;
    }
 
-   @media only screen and (max-width: 940px) {
-    
-    #nav_bar {
-		display:none;
-	}
-
-	.slicknav_menu {
-		display: block;		
-	}
-
-	.slicknav_menu {
-		background-color:rgb(99, 0, 110);		
-	}
-   }
 
    
