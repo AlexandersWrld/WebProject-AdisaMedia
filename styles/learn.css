@@ -29,13 +29,13 @@
   #blogArea {
     padding: 5%;
     color: #ffffff;
-    background: linear-gradient(rgb(0, 0, 0),rgb(35, 35, 41));
+    background: linear-gradient(rgb(9, 3, 51),rgb(0, 0, 7));
   }
 
   #blogArea2 {
     padding: 5%;
     color: #ffffff;
-    background: linear-gradient(rgb(0, 0, 0),rgb(35, 35, 41));
+    background: linear-gradient(rgb(9, 3, 51),rgb(0, 0, 7));
     display: none;
   }
 
@@ -46,7 +46,7 @@
 #bioInfo {
     color:rgb(255, 255, 255);
     padding: 5%;
-    background: linear-gradient(rgb(0, 0, 0),rgb(31, 31, 31));
+    background: linear-gradient(rgb(238, 174, 0),rgb(31, 0, 68));
     display: none;
 }
 
