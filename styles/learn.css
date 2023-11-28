@@ -28,10 +28,44 @@
 
   #blogArea {
     padding: 5%;
-    color: #FFFFFF;
+    color: #ffffff;
     background: linear-gradient(rgb(0, 0, 0),rgb(35, 35, 41));
+  }
+
+  #blogArea2 {
+    padding: 5%;
+    color: #ffffff;
+    background: linear-gradient(rgb(0, 0, 0),rgb(35, 35, 41));
+    display: none;
   }
 
 #blogArea p {
     font-size: larger;
 }
+
+#bioInfo {
+    color:rgb(255, 255, 255);
+    padding: 5%;
+    background: linear-gradient(rgb(0, 0, 0),rgb(31, 31, 31));
+    display: none;
+}
+
+
+#biography p {
+    font-size: larger;
+}
+
+@media only screen and (max-width: 760px) {
+    #carouselExample{
+        display: none;
+    }
+    #bioInfo{
+        display: block;
+    }
+    #blogArea {
+        display:none;
+    }
+    #blogArea2 {
+        display: block;
+    }
+  }
