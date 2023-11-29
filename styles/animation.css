@@ -1,0 +1,56 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.containter-fluid video{
+     width:40%;
+}
+
+.container-fluid h1 {
+    color: #fff;
+    padding: 3%;
+}
+
+#videoGallery{
+    background-color: rgb(0, 0, 0);;
+}
+
+#animation{
+    padding: 5%;
+    font-size: larger;
+    color:#fff;
+    background-color: rgb(0, 10, 79);
+}
+
+.container-fluid {
+    padding:2%;
+}
+
+#mobileGallery{
+    padding: 5%;
+    background-color:black;
+    justify-content: center;
+    color: #fff;
+    display: none;
+}
+
+#mobileGallery h1 {
+    font-size: 400%;
+    padding: 2%;
+}
+#mobileGallery video {
+    padding: 2%;
+}
+
+@media only screen and (max-width: 991px) {
+    #mobileGallery{
+        display: block;
+    }
+
+    .container-fluid {
+        display: none;
+    }
+    
+}
