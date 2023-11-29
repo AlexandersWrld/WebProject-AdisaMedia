@@ -20,7 +20,7 @@
 
 #animation{
     padding: 5%;
-    font-size: larger;
+    font-size: 20px;
     color:#fff;
     background-image: linear-gradient(rgb(0, 10, 79),rgb(0, 0, 0));
 }
