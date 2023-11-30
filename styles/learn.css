@@ -45,10 +45,7 @@
     font-size: larger;
 }
 
-#bioInfo {
-    color:rgb(255, 255, 255);
-    padding: 5%;
-    background: linear-gradient(rgb(238, 174, 0),rgb(31, 0, 68));
+#carouselExample2 {
     display: none;
 }
 
@@ -61,7 +58,7 @@
     #carouselExample{
         display: none;
     }
-    #bioInfo{
+    #carouselExample2{
         display: block;
     }
     #blogArea {
