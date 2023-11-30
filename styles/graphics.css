@@ -67,7 +67,11 @@ aside p {
         font-size: 20px;
     }
     aside h1 {
-        font-size: 20px;
+        font-size: 10px;
     }
 
+  }
+
+  #galleryArea {
+    background: linear-gradient(rgb(0, 0, 47),rgb(9, 0, 62));
   }
