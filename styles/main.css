@@ -52,6 +52,7 @@
     font-family: 'Open Sans', sans-serif;
     color: #FFFFFF;
     transition: 0.5s;
+    margin-top: 30%;
   }
 
   .Titles h1:hover{
